@@ -14,3 +14,9 @@ frontend/backend çalıştırmak için:
 ```yarn```
 
 ```yarn start```
+
+## Sonraki Adımlar:
+ - Authentication
+ - Permissions
+ - Deployment
+ 
