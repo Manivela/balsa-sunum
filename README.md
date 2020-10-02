@@ -1,7 +1,9 @@
 # balsa-sunum
 ## Çalıştırmak için:
 
--Docker/Docker-compose kurun
+Docker/Docker-compose kurun:
+
+https://docs.docker.com/get-docker/
 
 proje klasöründe database çalıştırmak için:
 
